@@ -2,4 +2,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Проверка гипотез в интернет-магазине (АБ-тест](https://github.com/krosskayen/online_store_AB-test/blob/main/project_a-b-testing%20(%D1%81lear).ipynb) | Определение успешности проведенного АБ-теста для повышения конверсии.| *pandas, matplotlib, seaborn, scipy.stats, datetime* |
+| [Проверка гипотез в интернет-магазине](https://github.com/krosskayen/online_store_AB-test/blob/main/project_a-b-testing%20(%D1%81lear).ipynb) | Определение успешности проведенного АБ-теста для повышения конверсии.| *pandas, matplotlib, seaborn, scipy.stats, datetime* |
